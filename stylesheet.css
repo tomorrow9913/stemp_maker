@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'HJB';
+    src: url('HJB.eot');
+    src: local('HJ한전서B'), local('HJB'),
+        url('HJB.eot?#iefix') format('embedded-opentype'),
+        url('HJB.woff2') format('woff2'),
+        url('HJB.woff') format('woff'),
+        url('HJB.svg#HJB') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
